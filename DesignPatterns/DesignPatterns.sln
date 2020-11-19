@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch-BasedStateMachine", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicStrategyPattern", "DynamicStrategyPattern\DynamicStrategyPattern.csproj", "{3FAF6C95-D8C4-4D9F-BF58-C92D6A098933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceteBuilder", "FaceteBuilder\FaceteBuilder.csproj", "{6F224664-A891-4FEB-B36A-BBBDD7D04A1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceteBuilder", "FaceteBuilder\FaceteBuilder.csproj", "{6F224664-A891-4FEB-B36A-BBBDD7D04A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicVisitorPattern", "ClassicVisitorPattern\ClassicVisitorPattern.csproj", "{200E3DC1-FC8F-43B9-A6D3-53B4338BDD97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6F224664-A891-4FEB-B36A-BBBDD7D04A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F224664-A891-4FEB-B36A-BBBDD7D04A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F224664-A891-4FEB-B36A-BBBDD7D04A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200E3DC1-FC8F-43B9-A6D3-53B4338BDD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200E3DC1-FC8F-43B9-A6D3-53B4338BDD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200E3DC1-FC8F-43B9-A6D3-53B4338BDD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200E3DC1-FC8F-43B9-A6D3-53B4338BDD97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
