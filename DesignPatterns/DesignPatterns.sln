@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceteBuilder", "FaceteBuil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassicVisitorPattern", "ClassicVisitorPattern\ClassicVisitorPattern.csproj", "{200E3DC1-FC8F-43B9-A6D3-53B4338BDD97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalInversionOfControl", "LocalInversionOfControl\LocalInversionOfControl.csproj", "{5400834F-2A58-41AC-A43D-7B4D78E0B4EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalInversionOfControl", "LocalInversionOfControl\LocalInversionOfControl.csproj", "{5400834F-2A58-41AC-A43D-7B4D78E0B4EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandQueryResponsibilitySegregation", "CommandQueryResponsibilitySegregation\CommandQueryResponsibilitySegregation.csproj", "{9BA6AD48-AC57-4D40-A21D-5696A445C7DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5400834F-2A58-41AC-A43D-7B4D78E0B4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5400834F-2A58-41AC-A43D-7B4D78E0B4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5400834F-2A58-41AC-A43D-7B4D78E0B4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA6AD48-AC57-4D40-A21D-5696A445C7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA6AD48-AC57-4D40-A21D-5696A445C7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA6AD48-AC57-4D40-A21D-5696A445C7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA6AD48-AC57-4D40-A21D-5696A445C7DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
